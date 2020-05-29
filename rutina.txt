@@ -5,11 +5,12 @@ Mi super poder: Velocidad
 3-Realizo limpieza en 1 minuto
 4-Me baño
 5-Realizo tareas
-6-Almuerzo de 12:30 a  1:30 pm
-7-Jugar videojuegos
-8-Realizar tareas
-9-Clase Bitlab de 6:00 a 8:00 pm
-10-Cena
-11-Ver Series o Películas
-12- Prepararme para ir a dormir
-13- Dormirme - 11:30 pm
+6-Leer dos libros en 5 minutos
+7-Almuerzo de 12:30 a  1:30 pm
+8-Jugar videojuegos
+9-Realizar tareas
+10-Clase Bitlab de 6:00 a 8:00 pm
+11-Cena
+12-Ver Series o Películas
+13- Prepararme para ir a dormir
+14- Dormirme - 11:30 pm
