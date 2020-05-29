@@ -5,3 +5,6 @@ Rutina Luis Manuel Bonilla Anaya
 4-Me baño
 5-Realizo tareas
 6-Almuerzo de 12:30 a  1:30 pm
+7-Jugar videojuegos
+8-Realizar tareas
+9-Clase Bitlab de 6:00 a 8:00 pm
