@@ -11,7 +11,8 @@ Mi super poder: Velocidad
 9-Realizar tareas
 10-Salir a recorrer alguna parte del mundo
 11-Clase Bitlab de 6:00 a 8:00 pm
-12-Cena
-13-Ver Series o Películas
-14- Prepararme para ir a dormir
-15- Dormirme - 11:30 pm
+12-Hacer la tarea de Bitlab al momento y enviarla
+13-Cena
+14-Ver Series o Películas
+15-Prepararme para ir a dormir
+16-Dormirme - 11:30 pm
